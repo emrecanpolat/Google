@@ -1,0 +1,55 @@
+.img1 {
+    display: block;
+    margin: auto;
+}
+
+.container {
+    width: 90%;
+    margin: auto;
+    display: block;
+    text-align: center;
+
+
+}
+
+.block1 {
+    display: flex;
+    background-color: rgb(235, 233, 233);
+    justify-content: center;
+
+}
+
+.block1 input {
+    width: 300px;
+}
+
+.block2 {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    margin-top: 2px;
+    font-size: 13px;
+}
+
+.area1 {
+    width: 34.8%;
+    background-color: rgb(126, 229, 218);
+}
+
+ul {
+    list-style: none;
+}
+
+.area2 {
+    width: 23%;
+    background-color: rgb(112, 204, 194);
+}
+
+.area3 {
+    width: 41.8%;
+    background-color: rgb(84, 184, 190);
+}
+
+p {
+    font-size: 13px;
+}
